@@ -1,0 +1,13 @@
+#beyaz_çizgi {
+  background-color: white;
+  text-align: center;
+  padding: 2px;
+}
+
+#alt_çizgi {
+  text-decoration: underline;
+}
+
+#ortaya_taşı {
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+body {
+  diplay: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-flex: 1;
+}
