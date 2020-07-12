@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-hello",
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  },
+  "engines": {
+    "node": "9.4.0"
+  }
+}
